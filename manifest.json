@@ -1,0 +1,19 @@
+{
+  "short_name": "ArduinoDay",
+  "name": "ArduinoDay '19",
+  "description": "A world wide celebration of arduino",
+  "icons": [{
+    "src": "images/frontfest-logo-circle-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "images/frontfest-logo-circle-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#F5B63F",
+  "background_color": "#FFFFFF"
+}
